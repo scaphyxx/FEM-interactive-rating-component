@@ -22,4 +22,4 @@ Users should be able to:
 
 ## Links
 
-- Live Site URL: [Live Site](https://fem-interactive-rating-component-six.vercel.app/)
+- Live Site URL: [Live Site](https://fem-interactive-rating-component-scaphyxx.vercel.app/)
