@@ -1,27 +1,25 @@
-# Next.js + Tailwind CSS Example
+# Frontend Mentor - Interactive rating component solution
 
-This example shows how to use [Tailwind CSS](https://tailwindcss.com/) [(v3.2)](https://tailwindcss.com/blog/tailwindcss-v3-2) with Next.js. It follows the steps outlined in the official [Tailwind docs](https://tailwindcss.com/docs/guides/nextjs).
+This is a solution to the [Interactive rating component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/interactive-rating-component-koxpeBUmI). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
 
-## Deploy your own
+## The challenge
 
-Deploy the example using [Vercel](https://vercel.com?utm_source=github&utm_medium=readme&utm_campaign=next-example) or preview live with [StackBlitz](https://stackblitz.com/github/vercel/next.js/tree/canary/examples/with-tailwindcss)
+Users should be able to:
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/git/external?repository-url=https://github.com/vercel/next.js/tree/canary/examples/with-tailwindcss&project-name=with-tailwindcss&repository-name=with-tailwindcss)
+- View the optimal layout for the app depending on their device's screen size
+- See hover states for all interactive elements on the page
+- Select and submit a number rating
+- See the "Thank you" card state after submitting a rating
 
-## How to use
+## Screenshot
+![](./screen.png)
 
-Execute [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app) with [npm](https://docs.npmjs.com/cli/init), [Yarn](https://yarnpkg.com/lang/en/docs/cli/create/), or [pnpm](https://pnpm.io) to bootstrap the example:
+## Built with
 
-```bash
-npx create-next-app --example with-tailwindcss with-tailwindcss-app
-```
+- NextJS 13
+- TailwindCSS
+- Zustand
 
-```bash
-yarn create next-app --example with-tailwindcss with-tailwindcss-app
-```
+## Links
 
-```bash
-pnpm create next-app --example with-tailwindcss with-tailwindcss-app
-```
-
-Deploy it to the cloud with [Vercel](https://vercel.com/new?utm_source=github&utm_medium=readme&utm_campaign=next-example) ([Documentation](https://nextjs.org/docs/deployment)).
+- Live Site URL: [Live Site](https://fem-interactive-rating-component-six.vercel.app/)
